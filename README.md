@@ -52,10 +52,3 @@ https://github.com/aroum/Watchman-layouts
 инструкция - https://likipiki.gitlab.io/posts/jornebuild/
 
 прошивка - https://likipiki.gitlab.io/posts/qmkbuild/
-
-
-
-
-
-<img src="keymap-drawer/corne.svg" >
-
